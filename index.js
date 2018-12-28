@@ -21,13 +21,6 @@ client.on('ready', () => {
     });
 });
 
-client.on("message", message => {
-  var dUser = message.mentions.members.first();
-  for(i = 1; i < 50; i++) {
-    dUser.send("NIGGGGAAAAAAAAAAAAAAAA");
-  };
-});
-
 //reacts to wills messages with "chillay" emote
 client.on("message", message => {
   if (message.author.id === "422481968660348969") {
@@ -323,15 +316,5 @@ client.on("message", (message) => {
   }
 });
 
-/*client.on("message", (message) => {
-  if (message.content.startsWith("!hank")) {
-    var hank = '@421768884966916096'
-    for (x = 4; x > 2; x++) {
-      message.channel.send("@421768884966916096");
-    }
-  }
-}); */
 
-
-
-client.login(token);
+client.login("NTExNjc1Njg3NjAyNDg3MzIz.DvBk8A.FH96ik_6wGsK01jVkWKuytRVKgs");
