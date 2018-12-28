@@ -317,4 +317,4 @@ client.on("message", (message) => {
 });
 
 
-client.login("NTExNjc1Njg3NjAyNDg3MzIz.DvBk8A.FH96ik_6wGsK01jVkWKuytRVKgs");
+client.login("NTExNjc1Njg3NjAyNDg3MzIz.Dwg3Xg.m7d874ngMBQbBrPmDxwnNsZROXA");
