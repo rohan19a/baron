@@ -317,4 +317,4 @@ client.on("message", (message) => {
 });
 
 
-client.login("NTE3MTI1MzcxMzUxNzkzNjY0.Dwm3Ug.MYd3hqsx91v8uKiqPg-hXIzoyJo");
+client.login(token);
